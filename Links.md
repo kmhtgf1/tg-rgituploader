@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-10 22:47 (IR Time)
+- 📥 [com.google.android.youtube.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/com.google.android.youtube.apk) `55.46 MB`
+
 ### 📅 2026-05-10 14:22 (IR Time)
 - 📥 [WhiteDNS-1.0.0-arm64-v8a.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/WhiteDNS-1.0.0-arm64-v8a.apk) `5.02 MB`
 
