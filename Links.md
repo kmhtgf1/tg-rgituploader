@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-11 21:08 (IR Time)
+- 📥 [mhrv-rs-android-arm64-v8a-v1.9.22.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.22.apk) `18.62 MB`
+
 ### 📅 2026-05-11 17:45 (IR Time)
 - 📥 [WhiteDNS-1.1.0-arm64-v8a-1778467437126.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/WhiteDNS-1.1.0-arm64-v8a-1778467437126.apk) `5.06 MB`
 
