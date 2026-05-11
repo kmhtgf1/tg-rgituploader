@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-11 21:09 (IR Time)
+- 📥 [mhrv-rs-windows-amd64.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.48 MB`
+
 ### 📅 2026-05-11 21:08 (IR Time)
 - 📥 [mhrv-rs-android-arm64-v8a-v1.9.22.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.22.apk) `18.62 MB`
 
