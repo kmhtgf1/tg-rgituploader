@@ -1,5 +1,11 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-13 23:57 (IR Time)
+- 🎬 [OctoFetch-TR_part_000.mp4](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/OctoFetch-TR_part_000.mp4) `30.33 MB`
+- 🎬 [OctoFetch-TR_part_001.mp4](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/OctoFetch-TR_part_001.mp4) `25.00 MB`
+- 🎬 [OctoFetch-TR_part_002.mp4](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/OctoFetch-TR_part_002.mp4) `29.48 MB`
+- 🎬 [OctoFetch-TR_part_003.mp4](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/OctoFetch-TR_part_003.mp4) `15.37 MB`
+
 ### 📅 2026-05-13 17:25 (IR Time)
 - 📥 [WhiteDns-Windows-Setup.exe](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/WhiteDns-Windows-Setup.exe) `9.14 MB`
 
