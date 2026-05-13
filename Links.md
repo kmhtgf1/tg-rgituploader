@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-13 17:25 (IR Time)
+- 📥 [WhiteDns-Windows-Setup.exe](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/WhiteDns-Windows-Setup.exe) `9.14 MB`
+
 ### 📅 2026-05-13 17:24 (IR Time)
 - 📥 [TunnelX-v1.2.24-standalone-compressed.z01](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/TunnelX-v1.2.24-standalone-compressed.z01) `95.00 MB`
 - 🗜️ [TunnelX-v1.2.24-standalone-compressed.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/TunnelX-v1.2.24-standalone-compressed.zip) `31.65 MB`
