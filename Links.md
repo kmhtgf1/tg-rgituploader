@@ -1,5 +1,9 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-13 17:24 (IR Time)
+- 📥 [TunnelX-v1.2.24-standalone-compressed.z01](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/TunnelX-v1.2.24-standalone-compressed.z01) `95.00 MB`
+- 🗜️ [TunnelX-v1.2.24-standalone-compressed.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/TunnelX-v1.2.24-standalone-compressed.zip) `31.65 MB`
+
 ### 📅 2026-05-11 21:09 (IR Time)
 - 📥 [mhrv-rs-windows-amd64.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.48 MB`
 
