@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-13 23:58 (IR Time)
+- 📥 [OctoFetch_Setup.exe](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/OctoFetch_Setup.exe) `71.07 MB`
+
 ### 📅 2026-05-13 23:57 (IR Time)
 - 🎬 [OctoFetch-TR_part_000.mp4](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/OctoFetch-TR_part_000.mp4) `30.33 MB`
 - 🎬 [OctoFetch-TR_part_001.mp4](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/OctoFetch-TR_part_001.mp4) `25.00 MB`
