@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 17:06 (IR Time)
+- 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.93 MB`
+
 ### 📅 2026-05-13 23:58 (IR Time)
 - 📥 [OctoFetch_Setup.exe](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/OctoFetch_Setup.exe) `71.07 MB`
 
