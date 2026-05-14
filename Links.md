@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 19:12 (IR Time)
+- 📱 [v2rayNG_2.1.7_arm64-v8a.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk) `26.81 MB`
+
 ### 📅 2026-05-14 18:48 (IR Time)
 - 🎬 [MITM-Psiphon MatinSenPai.mp4](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/MITM-Psiphon%20MatinSenPai.mp4) `38.86 MB`
 
