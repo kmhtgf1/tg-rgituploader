@@ -1,5 +1,9 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-15 20:47 (IR Time)
+- 📥 [Instagram_v429.1.0.44.70.z01](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/Instagram_v429.1.0.44.70.z01) `95.00 MB`
+- 🗜️ [Instagram_v429.1.0.44.70.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/Instagram_v429.1.0.44.70.zip) `23.99 MB`
+
 ### 📅 2026-05-14 23:09 (IR Time)
 - 🗜️ [Video_21264.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/Video_21264.zip) `49.50 MB`
 
