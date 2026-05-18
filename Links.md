@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-18 16:32 (IR Time)
+- 📱 [app-arm64-v8a-release.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/app-arm64-v8a-release.apk) `31.26 MB`
+
 ### 📅 2026-05-18 13:04 (IR Time)
 - 📥 [چشم_عقاب_-_Eagle_Eye_v1.2.25.apks](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/%DA%86%D8%B4%D9%85_%D8%B9%D9%82%D8%A7%D8%A8_-_Eagle_Eye_v1.2.25.apks) `11.32 MB`
 
