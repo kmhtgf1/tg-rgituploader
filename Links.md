@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-18 13:04 (IR Time)
+- 📥 [چشم_عقاب_-_Eagle_Eye_v1.2.25.apks](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/%DA%86%D8%B4%D9%85_%D8%B9%D9%82%D8%A7%D8%A8_-_Eagle_Eye_v1.2.25.apks) `11.32 MB`
+
 ### 📅 2026-05-15 20:47 (IR Time)
 - 📥 [Instagram_v429.1.0.44.70.z01](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/Instagram_v429.1.0.44.70.z01) `95.00 MB`
 - 🗜️ [Instagram_v429.1.0.44.70.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/Instagram_v429.1.0.44.70.zip) `23.99 MB`
