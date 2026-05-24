@@ -1,5 +1,9 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-24 16:19 (IR Time)
+- 🗜️ [v2rayN-windows-64_RGit.zip.001](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/v2rayN-windows-64_RGit.zip.001) `95.00 MB`
+- 🗜️ [v2rayN-windows-64_RGit.zip.002](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/v2rayN-windows-64_RGit.zip.002) `60.12 MB`
+
 ### 📅 2026-05-24 16:12 (IR Time)
 - 🗜️ [v2rayN-windows-64_RGit.zip.001](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/v2rayN-windows-64_RGit.zip.001) `95.00 MB`
 - 🗜️ [v2rayN-windows-64_RGit.zip.002](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/v2rayN-windows-64_RGit.zip.002) `58.14 MB`
