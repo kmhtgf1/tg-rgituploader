@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-24 15:39 (IR Time)
+- 📥 [NovaProxy.exe](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/NovaProxy.exe) `64.11 MB`
+
 ### 📅 2026-05-18 16:32 (IR Time)
 - 📱 [app-arm64-v8a-release.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/app-arm64-v8a-release.apk) `31.26 MB`
 
