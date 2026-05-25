@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-25 10:01 (IR Time)
+- 🗜️ [rdnbenet-windows.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/rdnbenet-windows.zip) `20.32 MB`
+
 ### 📅 2026-05-24 19:31 (IR Time)
 - 🗜️ [Scanner-Windows-64.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/Scanner-Windows-64.zip) `10.71 MB`
 
