@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-25 10:04 (IR Time)
+- 📱 [app-arm64-v8a-release.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/app-arm64-v8a-release.apk) `31.27 MB`
+
 ### 📅 2026-05-25 10:01 (IR Time)
 - 🗜️ [rdnbenet-windows.zip](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/rdnbenet-windows.zip) `20.32 MB`
 
