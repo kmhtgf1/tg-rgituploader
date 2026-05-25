@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-25 19:05 (IR Time)
+- 📥 [ProxyBridge](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/ProxyBridge) `0.34 MB`
+
 ### 📅 2026-05-25 10:04 (IR Time)
 - 📱 [app-arm64-v8a-release.apk](https://github.com/kmhtgf1/tg-rgituploader/raw/main/dl/app-arm64-v8a-release.apk) `31.27 MB`
 
